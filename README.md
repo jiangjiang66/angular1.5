@@ -1,2 +1,2 @@
 # angular1.5
-主要是angular自己的一个练习
+angulardemo1主要是写了一个简单的angular登录验证
